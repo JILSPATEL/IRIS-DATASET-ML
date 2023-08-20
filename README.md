@@ -8,9 +8,7 @@ This repository contains code and resources for performing clustering analysis o
 - [Dataset](#dataset)
 - [Clustering Algorithms](#clustering-algorithms)
 - [Usage](#usage)
-- [Results](#results)
 - [Dependencies](#dependencies)
-- [Contributing](#contributing)
   
 ## Introduction
 
